@@ -1,0 +1,77 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "a6dc22198e10a1b04d4ec06480aa16557340c3348a5187ea40c56a460e8ecc9f"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "CairoSVG": {
+            "version": "==1.0.22"
+        },
+        "Markdown": {
+            "version": "==2.6.8"
+        },
+        "Pyphen": {
+            "version": "==0.9.4"
+        },
+        "WeasyPrint": {
+            "version": "==0.36"
+        },
+        "appdirs": {
+            "version": "==1.4.3"
+        },
+        "cairocffi": {
+            "version": "==0.8.0"
+        },
+        "cffi": {
+            "version": "==1.10.0"
+        },
+        "cssselect": {
+            "version": "==1.0.1"
+        },
+        "html5lib": {
+            "version": "==0.999999999"
+        },
+        "lxml": {
+            "version": "==3.7.3"
+        },
+        "packaging": {
+            "version": "==16.8"
+        },
+        "pycparser": {
+            "version": "==2.17"
+        },
+        "pyparsing": {
+            "version": "==2.2.0"
+        },
+        "python-magic": {
+            "version": "==0.4.13"
+        },
+        "requests": {
+            "version": "==2.14.2"
+        },
+        "setuptools": {
+            "version": "==35.0.2"
+        },
+        "six": {
+            "version": "==1.10.0"
+        },
+        "thehive4py": {
+            "version": "==1.2.0"
+        },
+        "tinycss": {
+            "version": "==0.4"
+        },
+        "webencodings": {
+            "version": "==0.5.1"
+        }
+    },
+    "develop": {}
+}
